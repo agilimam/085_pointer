@@ -35,7 +35,7 @@ void orang::setNama(string pNama) {
 int main()
 {
 	orang o;
-	o.setNama("koko kumat");
+	o.setNama("joko kumat");
 	siswa s;
 	s.setID(1);
 	s.displayAll(o);
